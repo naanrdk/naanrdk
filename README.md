@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hello there, human! 👋
+I'm Rahul (he/him). Pronounced like raa hul.<br>I'm a data geek, open education. My work empowers people with the skills needed in tech.
+<br>
+I use my privilege to empower others when I can.
+<br>
+<br>
+In my free time I'm running the trails in the mountains.<br>
+Ultra distances are my thing.
+<br>
+[Learn more about me here.](https://www.linkedin.com/in/naanrdk)
 <!--
 **naanrdk/naanrdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
