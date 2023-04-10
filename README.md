@@ -8,6 +8,8 @@ In my free time I'm running the trails in the mountains.<br>
 Ultra distances are my thing.
 <br>
 [Learn more about me here.](https://www.linkedin.com/in/naanrdk)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naanrdk&theme=tokyonight)
 <!--
 **naanrdk/naanrdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
